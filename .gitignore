@@ -1,0 +1,15 @@
+# Binaries and compiled files
+*.exe
+*.out
+*.o
+*.so
+*.dll
+
+# Build folders
+cmake-build-debug/
+cmake-build-release/
+build/
+src/
+
+# IDE Files
+.idea/
