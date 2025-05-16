@@ -16,8 +16,9 @@
 ##### Parser::parseFromFile(const std::string&) - parse and deserealize data from mission file to MissionSQM class
 ##### Parser::writeMissionSQMToFile(MissionSQM &, const std::string &, const std::string &) - serialize data back to mission file
 
-## TODO funcs:
+## TODO:
 ### MissionSQM.addEntity(EntityType &, ...various entity constructor args) - to add any type of entity to missionSQM class object
+### Refactor parseCustomAttributes func to proper CustomAttributes mission.sqm field parsing
 
 ## Usage:
 ### CMake:
